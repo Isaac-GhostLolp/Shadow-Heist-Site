@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tuple.maturacao" />
+          <option value="tuple.altura" />
+          <option value="tuple.espigamento" />
+          <option value="tuple.acamamento" />
+          <option value="tuple.plantas" />
+          <option value="tuple.espigas" />
+          <option value="tuple.pms" />
+          <option value="tuple.ph" />
+          <option value="tuple.peso" />
+          <option value="tuple.umidade" />
+          <option value="tuple.produtividade" />
+          <option value="main.langchain" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
